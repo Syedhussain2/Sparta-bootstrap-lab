@@ -1,0 +1,67 @@
+.navbar {
+  margin-bottom: 0;
+  background-color: rgb(96, 143, 222);
+  box-shadow: rgb(221, 219, 25)
+}
+/*END OF NAV CSS  */
+/*JUMBO BEGINNING  */
+.jumbotron {
+  text-align: center;
+  background-image: url(https://sisalto.net/medium/toK7O9/technology-light-color-graphic-black.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+
+.jumbotron h1 {
+  color:rgba(247, 7, 87, 0.45);
+  text-shadow: 2px 2px rgb(19, 194, 232);
+}
+.jumbotron a{
+  background-color: rgb(235, 19, 155);
+}
+/*JUMOBO ENDING  */
+
+/*DIVISION FOR IMAGES TEXT LINK CONTAINER 1  */
+.container1 {
+  background-color: rgb(207, 222, 240);
+  background-image: linear-gradient(-90deg, white, rgb(9, 148, 236));
+  border-style: solid;
+  border-color: #B2558A;
+  margin-top: -30px;
+  padding-left: 20px;
+  padding-right: 10px;
+  text-align: center;
+}
+.container1 h2{
+  color: rgb(5, 100, 251);
+  text-shadow: rgb(209, 241, 12);
+}
+/*END DIVISION FOR IMAGES TEXT LINK CONTAINER 1  */
+.footer {
+  background-color: rgb(32, 41, 43);
+  padding: 10px;
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+}
+.footer img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width:60px;
+}
+/*JUMBOTRON PAGE 2 */
+.jumbotron2list-group{
+  background: rgb(37, 34, 36);
+}
+/* END OF JUMBOTRON PAGE 2 */
+/*BEGINNING OF FORM PAGE2 */
+.form{
+  background-color: rgb(204, 150, 194);
+}
+/*END OF FORM PAGE 2 */
