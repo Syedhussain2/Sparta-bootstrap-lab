@@ -3,6 +3,11 @@
   background-color: rgb(96, 143, 222);
   box-shadow: rgb(221, 219, 25)
 }
+.navbar-brand{
+  background-color: rgb(51, 104, 195);
+  text-color: rgb(27, 19, 27);
+
+}
 /*END OF NAV CSS  */
 /*JUMBO BEGINNING  */
 .jumbotron {
